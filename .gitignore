@@ -1,0 +1,11 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database and secrets
+students.db
+.env
